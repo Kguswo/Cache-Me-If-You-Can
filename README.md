@@ -1,5 +1,6 @@
 <div align="center">
-    <img src="assets/main.png" width="40%"/>
+    <img src="assets/Image_20250329_09_20_17.png" width="40%"/>
+    
 </div>
 
 ----
