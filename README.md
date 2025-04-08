@@ -16,6 +16,7 @@
 
 [![SINCE](https://img.shields.io/badge/Since-2025.03.24-red)](https://github.com/WooVictory/Ready-For-Tech-Interview)
 [![LICENSE](https://img.shields.io/badge/license-MIT-yellowgreen)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/LICENSE)
+[![hits](https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%253A%252F%252Fgithub.com%252FKguswo%252FCache-Me-If-You-Can&title=hits&title_bg=555555&count_bg=79c83d&edge_flat=false)](https://hitmeup-backend-593087166771.asia-northeast1.run.app)
 
 </div>
 
