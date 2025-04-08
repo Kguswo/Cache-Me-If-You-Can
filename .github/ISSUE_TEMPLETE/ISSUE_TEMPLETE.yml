@@ -1,14 +1,16 @@
 name: "Issue"
 description: "이슈 추가"
+title: "[대분류] 챕터 제목"
 body:
   - type: textarea
     attributes:
       label: ✅ 작성할 내용
       description: 이번에 작성할 챕터를 리스트로 작성해주세요.
-      placeholder: ex) - 1.1 인터넷이란 무엇인가?
+      placeholder: 'ex) ## 목록
+                          - 1.1 인터넷이란 무엇인가?'
     validations:
       required: true
   - type: textarea
     attributes:
-      label: 🙋📍 추가 내용
+      label: 📍 추가 내용
       description: 추가할 내용이 있다면 작성해 주세요.
