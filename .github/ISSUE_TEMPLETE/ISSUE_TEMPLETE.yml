@@ -6,8 +6,9 @@ body:
     attributes:
       label: ✅ 작성할 내용
       description: 이번에 작성할 챕터를 리스트로 작성해주세요.
-      placeholder: 'ex) ## 목록
-                          - 1.1 인터넷이란 무엇인가?'
+      placeholder: |
+        ex) ## 목록
+        - 1.1 인터넷이란 무엇인가?
     validations:
       required: true
   - type: textarea
